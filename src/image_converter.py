@@ -3,7 +3,7 @@ import rawpy
 import imageio
 
 
-class Converter:
+class ImageConverter:
     def __init__(self):
         pass
 
